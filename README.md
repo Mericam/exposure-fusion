@@ -1,4 +1,5 @@
 # exposure-fusion
+
 Implementation of Exposure Fusion in Matlab, as described in:
 
   "Exposure Fusion",
@@ -9,12 +10,13 @@ Implementation of Exposure Fusion in Matlab, as described in:
   Tom Mertens, Jan Kautz and Frank Van Reeth
   In Computer Graphics Forum, 28 (1) 161 - 171, 2009
 
-This code was originally written by Tom Mertens at Hasselt University, August 2007
+This code was originally written by Tom Mertens at Hasselt University, August 2007.
 Uploaded to GitHub in February 2015
-tom.mertens@gmail.com
+
+Contact: Tom Mertens, tom.mertens@gmail.com
 
 
-CONTENTS
+Contents of this repository:
 Run 'example.m' for demonstration. The main routine can be found in 'exposure_fusion.m'. 
 More information can be found in the .m-files.
 
@@ -29,5 +31,5 @@ List of files
 - downsample.m				
 - pyramid_filter.m
 
-Subdirectory 'House' contains a sample dataset (photos by Min H. Kim)
+Subdirectory 'house' contains a sample dataset (photos by Min H. Kim, as used in the paper)
 
