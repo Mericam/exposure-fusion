@@ -16,20 +16,6 @@ Uploaded to GitHub in February 2015
 Contact: Tom Mertens, tom.mertens@gmail.com
 
 
-Contents of this repository:
-Run 'example.m' for demonstration. The main routine can be found in 'exposure_fusion.m'. 
-More information can be found in the .m-files.
-
-List of files
-- example.m						
-- exposure_fusion.m
-- laplacian_pyramid.m			
-- gaussian_pyramid.m			
-- reconstruct_laplacian_pyramid.m
-- display_pyramid.m	(not used by exposure_fusion.m)
-- upsample.m				
-- downsample.m				
-- pyramid_filter.m
+To get started, go to 'example.m'.
 
 Subdirectory 'house' contains a sample dataset (photos by Min H. Kim, as used in the paper)
-
