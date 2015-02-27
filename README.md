@@ -13,7 +13,7 @@ Implementation of Exposure Fusion in Matlab, as described in:
 This code was originally written by Tom Mertens at Hasselt University, August 2007.
 Uploaded to GitHub in February 2015
 
-Contact: Tom Mertens, tom.mertens@gmail.com
+Author and main contact: Tom Mertens, tom.mertens@gmail.com
 
 
 To get started, go to 'example.m'.
